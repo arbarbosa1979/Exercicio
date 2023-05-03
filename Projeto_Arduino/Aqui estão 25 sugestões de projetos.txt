@@ -1,0 +1,27 @@
+Aqui estão 25 sugestões de projetos de IoT que podem ser facilmente implementados usando Arduino:
+
+1. Sistema de irrigação inteligente com sensores de umidade do solo e temperatura
+2. Controle de temperatura e umidade em um ambiente fechado
+3. Monitoramento de consumo de energia em tempo real com sensores de corrente e tensão
+4. Automação residencial para controle de iluminação e temperatura
+5. Sistema de segurança residencial com detecção de movimento e alarme
+6. Controle remoto de aparelhos eletrônicos usando um aplicativo móvel
+7. Medidor de qualidade do ar com sensores de dióxido de carbono, monóxido de carbono e poluentes
+8. Monitoramento de temperatura e umidade em estufas para plantio de hortaliças
+9. Sistema de rastreamento veicular com GPS e módulo de comunicação celular
+10. Controle de acesso a uma porta usando um cartão RFID
+11. Medidor de nível de água em reservatórios com sensores de pressão
+12. Monitoramento de nível de ruído em um ambiente urbano
+13. Sistema de alarme contra incêndios com sensores de fumaça e temperatura
+14. Medidor de pH em piscinas e aquários
+15. Sistema de automação para controle de irrigação em plantações agrícolas
+16. Monitoramento de temperatura em geladeiras e freezers
+17. Medidor de pressão arterial com monitoramento remoto
+18. Detector de vazamentos de gás em cozinhas e banheiros
+19. Sistema de controle de acesso a um estacionamento com sensor de presença
+20. Medidor de velocidade de vento em turbinas eólicas
+21. Controle de sistemas de som e iluminação em eventos
+22. Monitoramento de vibração em máquinas industriais para manutenção preventiva
+23. Sistema de detecção de água em poços artesianos
+24. Controle de velocidade de motores elétricos
+25. Medidor de umidade relativa do ar em câmaras de armazenamento de alimentos.
