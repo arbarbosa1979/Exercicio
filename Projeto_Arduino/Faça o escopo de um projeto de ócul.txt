@@ -1,0 +1,11 @@
+Faça o escopo de um projeto de óculos anti-sono feito usando arduíno, o objetivo é prevenir o motorista de caminhão de dormir enquanto dirige, através de vibração e aviso sonoro, o óculos ainda se conecta via internet para enviar dados sobre o motorista para a empresa. O escopo possui apresentação, objetivos gerais, objetivos específicos e justificativa do projeto.
+
+Componentes usados no projeto:
+
+Arduino Pro Mini ATmega328 - 5V/16MHz
+Mini Motor De Vibração Vibracall 1027 Para Arduino Esp8266
+Transistor BC547
+Módulo Buzzer Passivo 5v
+Resistor 4K7 CR12 1/8W 5% - 4.7K (4700) ohms 1/8W
+Bateria recarregável de polímero de lítio/íon de lítio, 3.7v 170mah 651723
+Óculos de Proteção Transparente

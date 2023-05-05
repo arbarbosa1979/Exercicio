@@ -1,0 +1,21 @@
+**Projeto Óculos Anti-sono para Motoristas de Caminhão**
+
+**Apresentação:**
+
+Este projeto tem como objetivo a criação de um dispositivo de segurança para motoristas de caminhão, que evite o risco de acidentes causados pelo sono ao volante. O dispositivo consiste em um óculos equipado com sensores que detectam sinais de sonolência no motorista, e emite alertas sonoros e vibratórios para mantê-lo alerta. Além disso, o óculos também envia informações sobre o estado do motorista para a empresa, através de uma conexão à internet.
+
+**Objetivos Gerais:**
+
+O objetivo geral do projeto é desenvolver um dispositivo que ajude a prevenir acidentes de trânsito causados pelo sono ao volante de motoristas de caminhão.
+
+**Objetivos Específicos:**
+
+- Criar um circuito eletrônico baseado em Arduino para detecção de sinais de sonolência do motorista;
+- Integrar o circuito eletrônico a um par de óculos de proteção transparente;
+- Desenvolver um sistema de alerta sonoro e vibratório que ative quando o motorista estiver sonolento;
+- Implementar um módulo de comunicação para enviar informações sobre o estado do motorista à empresa;
+- Realizar testes para verificar a eficácia do dispositivo em prevenir acidentes de trânsito causados pelo sono ao volante.
+
+**Justificativa do Projeto:**
+
+O sono ao volante é um dos principais causadores de acidentes nas estradas, especialmente entre motoristas de caminhão. Com o aumento da demanda por entregas devido ao comércio eletrônico, é importante desenvolver dispositivos que possam ajudar a prevenir esses acidentes. O projeto de um óculos anti-sono para motoristas de caminhão tem grande potencial para contribuir com a segurança nas estradas, ajudando a evitar acidentes que podem ter consequências graves para a vida das pessoas. Além disso, é uma tecnologia que pode ser facilmente adaptada para outros tipos de veículos, como ônibus e vans de transporte.
