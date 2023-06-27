@@ -21,19 +21,21 @@ Aqui está uma divisão dos passos entre os dois atores principais, o Administra
 
 Para o Administrador do sistema:
 1. Realizar login
-2. Visualizar agenda diária
-3. Visualizar agenda mensal
-4. Visualizar agenda semanal
-5. Gerar relatório de reservas por período
-6. Gerar relatório de reservas por laboratório
-7. Gerar relatório de frequência de reserva por usuário
+2. Autorizar reserva
+3. Visualizar agenda diária
+4. Visualizar agenda mensal
+5. Visualizar agenda semanal
+6. Gerar relatório de reservas por período
+7. Gerar relatório de reservas por laboratório
+8. Gerar relatório de frequência de reserva por usuário
 
 Para o Professor (usuário) que está reservando uma sala/laboratório:
 1. Realizar login
-2. Criar reserva
-3. Estender reserva
-4. Cancelar reserva
-5. Registrar empréstimo de chave
-6. Registrar devolução de chave
+2. Consultar reserva
+3. Criar reserva
+5. Estender reserva
+6. Cancelar reserva
+7. Registrar empréstimo de chave
+8. Registrar devolução de chave
 
 Essa divisão reflete as diferentes funcionalidades disponíveis para cada ator. O Administrador do sistema tem acesso a recursos relacionados à visualização da agenda, geração de relatórios e gerenciamento geral do sistema. O Professor (usuário) pode criar, estender ou cancelar reservas, bem como registrar o empréstimo e a devolução das chaves dos laboratórios.

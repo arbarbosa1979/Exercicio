@@ -1,4 +1,4 @@
-Aqui estão alguns passos que podem ser inseridos em um fluxograma do projeto de gerenciamento de reservas de laboratórios:
+Etapas do fluxograma do projeto de gerenciamento de reservas de laboratórios:
 
 1. Início: O fluxo de trabalho começa aqui.
 2. Autenticação: O usuário realiza a autenticação no sistema inserindo suas credenciais.
