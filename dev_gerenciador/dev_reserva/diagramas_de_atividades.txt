@@ -1,0 +1,16 @@
+Aqui estão 12 passos para serem inseridos no diagrama de atividades do projeto do gerenciador de reservas:
+
+1. Iniciar: O fluxo de atividades começa aqui.
+2. Realizar login: O usuário autentica-se no sistema informando suas credenciais.
+3. Verificar permissões: Verificar se o usuário tem permissão para realizar a ação solicitada.
+4. Criar reserva: O usuário cria uma nova reserva, selecionando o laboratório, dia e horário desejados.
+5. Estender reserva: O usuário estende a duração de uma reserva existente, caso o laboratório esteja disponível.
+6. Cancelar reserva: O usuário cancela uma reserva existente.
+7. Registrar empréstimo de chave: O usuário registra quem pegou a chave de um laboratório específico, indicando a matrícula funcional e horário.
+8. Registrar devolução de chave: O usuário registra quem devolveu a chave de um laboratório específico, indicando a matrícula funcional e horário.
+9. Visualizar agenda diária: O usuário visualiza as reservas agendadas para um dia específico.
+10. Visualizar agenda mensal: O usuário visualiza as reservas agendadas para um mês específico.
+11. Visualizar agenda semanal: O usuário visualiza as reservas agendadas para uma semana específica.
+12. Gerar relatório: O usuário gera um relatório com base nos critérios selecionados, como período de tempo, laboratório específico ou frequência de reserva por usuário.
+
+Esses passos representam as principais atividades e fluxo de ações do sistema de gerenciamento de reservas de laboratórios e podem ser representados em um diagrama de atividades. Cada atividade é conectada através de transições, mostrando a sequência lógica das ações realizadas pelo usuário.

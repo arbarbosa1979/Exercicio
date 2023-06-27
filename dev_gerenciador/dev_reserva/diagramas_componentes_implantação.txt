@@ -1,0 +1,29 @@
+No contexto do projeto do gerenciador de reservas de laboratórios, aqui estão algumas etapas que podem ser inseridas nos diagramas de componentes e de implantação:
+
+Diagrama de Componentes:
+
+1. Componente de Autenticação: Responsável pela autenticação de usuários no sistema.
+2. Componente de Reservas: Gerencia a criação, consulta e gerenciamento das reservas de laboratórios.
+3. Componente de Laboratórios: Gerencia as informações e disponibilidade dos laboratórios.
+4. Componente de Relatórios: Gera relatórios com informações sobre as reservas realizadas.
+5. Componente de Agenda: Responsável pela gestão da agenda de reservas.
+6. Componente de Chaves: Controla o empréstimo e devolução das chaves dos laboratórios.
+7. Componente de Validação: Realiza a validação das reservas e verifica a disponibilidade dos laboratórios.
+8. Componente de Usuários: Gerencia o cadastro, consulta e gerenciamento dos usuários.
+9. Componente de Interface de Usuário: Lida com a interação entre o usuário e o sistema, exibindo telas, formulários e componentes visuais.
+10. Componente de Persistência: Responsável pela persistência dos dados, como acesso a banco de dados ou manipulação de arquivos.
+11. Componente de Comunicação: Permite a comunicação entre os componentes do sistema.
+
+Diagrama de Implantação:
+
+1. Servidor de Aplicação: Hospeda a aplicação do gerenciador de reservas.
+2. Servidor de Banco de Dados: Armazena os dados das reservas, usuários e demais informações relevantes.
+3. Cliente (Computador do Usuário): Onde a interface do usuário é executada.
+4. Firewall: Controla o acesso ao servidor de aplicação e ao banco de dados.
+5. Roteador: Gerencia a comunicação de rede entre os componentes.
+6. Conexão de Rede: Estabelece a comunicação entre os diferentes componentes.
+7. Sistema Operacional: Ambiente de execução dos componentes.
+8. Bibliotecas e Frameworks: Conjunto de bibliotecas e frameworks utilizados pelo sistema para suporte e funcionalidades adicionais.
+9. Recursos de Hardware: Representam os recursos físicos necessários para a execução do sistema, como processador, memória RAM e armazenamento.
+
+Essas etapas representam a estrutura dos componentes e a infraestrutura de implantação do sistema do gerenciador de reservas de laboratórios. Elas podem ser detalhadas nos diagramas correspondentes, mostrando as relações, dependências e interfaces entre os componentes, bem como a distribuição física dos componentes no ambiente de implantação.

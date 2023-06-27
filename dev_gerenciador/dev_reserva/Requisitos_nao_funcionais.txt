@@ -1,0 +1,61 @@
+Requisitos Não Funcionais:
+
+RNF1:
+- Identificador: RNF1
+- Categoria: Segurança
+- Nome: Segurança de Dados
+- Data da criação: [data]
+- Autor: [autor]
+- Data da última alteração: [data]
+- Autor: [autor]
+- Versão: [versão]
+- Prioridade: [prioridade]
+- Descrição: O sistema deve garantir a segurança dos dados armazenados, utilizando mecanismos de criptografia e controle de acesso. As informações dos usuários, reservas e outras informações sensíveis devem ser protegidas contra acesso não autorizado e possíveis violações de segurança.
+
+RNF2:
+- Identificador: RNF2
+- Categoria: Desempenho
+- Nome: Desempenho do Sistema
+- Data da criação: [data]
+- Autor: [autor]
+- Data da última alteração: [data]
+- Autor: [autor]
+- Versão: [versão]
+- Prioridade: [prioridade]
+- Descrição: O sistema deve ser capaz de lidar com um grande número de usuários e reservas simultaneamente, sem comprometer o desempenho. Isso inclui tempos de resposta rápidos, carregamento eficiente de dados e capacidade de processamento adequada para atender às demandas do sistema.
+
+RNF3:
+- Identificador: RNF3
+- Categoria: Usabilidade
+- Nome: Interface Intuitiva
+- Data da criação: [data]
+- Autor: [autor]
+- Data da última alteração: [data]
+- Autor: [autor]
+- Versão: [versão]
+- Prioridade: [prioridade]
+- Descrição: A interface do sistema deve ser intuitiva e de fácil utilização, mesmo para usuários com pouco conhecimento técnico. Os elementos da interface devem ser organizados de forma clara e os fluxos de interação devem ser intuitivos, facilitando o uso do sistema e minimizando a curva de aprendizado.
+
+RNF4:
+- Identificador: RNF4
+- Categoria: Confiabilidade
+- Nome: Tolerância a Falhas
+- Data da criação: [data]
+- Autor: [autor]
+- Data da última alteração: [data]
+- Autor: [autor]
+- Versão: [versão]
+- Prioridade: [prioridade]
+- Descrição: O sistema deve ser robusto e tolerante a falhas, de forma a minimizar interrupções no serviço. Em caso de falhas de comunicação, erros de servidor ou outros problemas técnicos, o sistema deve ser capaz de se recuperar e continuar funcionando adequadamente, evitando perda de dados ou interrupções no processo de reservas.
+
+RNF5:
+- Identificador: RNF5
+- Categoria: Escalabilidade
+- Nome: Escalabilidade do Sistema
+- Data da criação: [data]
+- Autor: [autor]
+- Data da última alteração: [data]
+- Autor: [autor]
+- Versão: [versão]
+- Prioridade: [prioridade]
+- Descrição: O sistema deve ser projetado de forma escalável, capaz de lidar com o crescimento do número de usuários e volume de dados ao longo do tempo. Isso inclui a capacidade de adicionar novos laboratórios, usuários e registros de reservas sem afetar negativamente o desempenho do sistema.
