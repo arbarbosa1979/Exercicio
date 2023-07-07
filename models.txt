@@ -1,0 +1,40 @@
+Certainly! Here's a C# class `Reserva` based on the SQL Server table structure you provided:
+
+```csharp
+public class Reserva
+{
+    public int Id { get; set; }
+    public int Id_Sala { get; set; }
+    public int Id_Usuario { get; set; }
+    public int Id_Disciplina { get; set; }
+    public int Id_Curso { get; set; }
+    public DateTime DataReserva { get; set; }
+    public DateTime Hora { get; set; }
+    public string Status { get; set; }
+    public string Observacoes { get; set; }
+    public string Turno { get; set; }
+}
+```
+
+In this class, each property corresponds to a column in the "Reserva" table. The property names match the column names, and the property types match the column data types defined in the table structure.
+
+You can use this `Reserva` class to work with reservation data in your C# code.
+
+Certainly! Here's a C# class `Usuario` based on the SQL Server table structure you provided:
+
+```csharp
+public class Usuario
+{
+    public int Id { get; set; }
+    public string Nome { get; set; }
+    public string NomeUsuario { get; set; }
+    public string Email { get; set; }
+    public string Senha { get; set; }
+    public string Matricula { get; set; }
+    public bool Ativo { get; set; }
+}
+```
+
+In this class, each property corresponds to a column in the "Usuario" table. The property names match the column names, and the property types match the column data types defined in the table structure.
+
+You can use this `Usuario` class to work with user data in your C# code.
