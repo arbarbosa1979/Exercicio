@@ -1,0 +1,18 @@
+Aqui estão 14 passos para serem inseridos no diagrama de classes do projeto do gerenciador de reservas:
+
+1. Classe Usuario: Representa um usuário do sistema, com atributos como nome, matrícula funcional e permissões.
+2. Classe Administrador: Subclasse de Usuario, representa um administrador do sistema com permissões adicionais.
+3. Classe Laboratorio: Representa um laboratório disponível para reserva, com atributos como nome e capacidade.
+4. Classe Reserva: Representa uma reserva de laboratório, contendo informações como data, horário, laboratório, e usuário responsável.
+5. Classe Chave: Representa a chave de um laboratório, com atributos como status de disponibilidade e data/hora de empréstimo e devolução.
+6. Classe Agenda: Gerencia a agenda de reservas dos laboratórios, com métodos para adicionar, remover e consultar reservas.
+7. Classe Relatorio: Responsável pela geração de relatórios, contendo métodos para filtrar as informações e produzir os relatórios desejados.
+8. Classe Autenticacao: Realiza a autenticação dos usuários no sistema, verificando suas credenciais.
+9. Classe ValidacaoReserva: Responsável por verificar a disponibilidade de laboratórios em determinada data e horário.
+10. Classe RegistroChave: Registra as informações de empréstimo e devolução das chaves dos laboratórios.
+11. Classe Filtro: Utilizada para aplicar filtros nas consultas de reservas, permitindo a filtragem por período, laboratório ou usuário.
+12. Classe RelatorioFrequencia: Gera relatórios com informações sobre a frequência de reserva por usuário.
+13. Classe RelatorioPeriodo: Gera relatórios com informações sobre as reservas realizadas em um determinado período.
+14. Classe RelatorioLaboratorio: Gera relatórios com informações sobre as reservas de um laboratório específico.
+
+Essas classes representam as principais entidades e funcionalidades do sistema de gerenciamento de reservas de laboratórios e podem ser representadas no diagrama de classes. Elas possuem atributos e métodos correspondentes às suas responsabilidades e interações dentro do sistema.

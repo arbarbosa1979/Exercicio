@@ -1,0 +1,43 @@
+Aqui estão alguns passos que podem ser inseridos no diagrama de sequência do projeto do gerenciador de reservas de laboratórios:
+
+1. Autenticação:
+   a. O usuário insere suas credenciais de login.
+   b. O sistema verifica as credenciais e autentica o usuário.
+
+2. Visualizar Agenda:
+   a. O usuário seleciona a opção de visualizar a agenda de reservas.
+   b. O sistema consulta o banco de dados para obter as reservas existentes.
+   c. O sistema exibe a agenda de reservas ao usuário.
+
+3. Criar Reserva:
+   a. O usuário seleciona a opção de criar uma nova reserva.
+   b. O sistema exibe os laboratórios disponíveis para reserva.
+   c. O usuário seleciona um laboratório.
+   d. O sistema exibe as datas e horários disponíveis para o laboratório selecionado.
+   e. O usuário escolhe a data e o horário desejados.
+   f. O sistema verifica a disponibilidade do laboratório na data e horário escolhidos.
+   g. O sistema registra a reserva no banco de dados.
+
+4. Estender Reserva:
+   a. O usuário seleciona a opção de estender uma reserva existente.
+   b. O sistema exibe as reservas do usuário.
+   c. O usuário seleciona a reserva que deseja estender.
+   d. O sistema exibe as opções de estender a reserva.
+   e. O usuário escolhe a opção de estender por um período específico.
+   f. O sistema verifica a disponibilidade do laboratório no período de extensão.
+   g. O sistema atualiza a duração da reserva no banco de dados.
+
+5. Cancelar Reserva:
+   a. O usuário seleciona a opção de cancelar uma reserva existente.
+   b. O sistema exibe as reservas do usuário.
+   c. O usuário seleciona a reserva que deseja cancelar.
+   d. O sistema remove a reserva do banco de dados.
+
+6. Gerar Relatório:
+   a. O usuário seleciona a opção de gerar um relatório.
+   b. O sistema exibe as opções de filtragem do relatório (por período, laboratório, usuário, etc.).
+   c. O usuário escolhe os critérios de filtragem desejados.
+   d. O sistema consulta o banco de dados com base nos critérios escolhidos.
+   e. O sistema gera o relatório com as informações solicitadas.
+
+Esses passos representam algumas interações entre o usuário e o sistema no contexto do gerenciador de reservas de laboratórios. No diagrama de sequência, cada passo seria detalhado com as mensagens trocadas entre os objetos envolvidos, indicando a ordem e o fluxo das interações.

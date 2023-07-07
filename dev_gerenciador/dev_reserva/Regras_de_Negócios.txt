@@ -1,0 +1,91 @@
+Aqui está a definição de qual módulo do sistema cada regra de negócio pertence, a dependência de cada regra, um nome para cada regra e uma descrição detalhada de cada uma:
+
+Regra de Negócio 1:
+Nome: Restrição de Horários
+Módulo: Reservas
+Dependências: N/A
+Descrição: Essa regra se aplica ao módulo de Reservas e estabelece que não é permitido realizar reservas fora do horário de funcionamento dos laboratórios. O sistema deve validar as solicitações de reserva para garantir que estejam dentro do horário permitido e notificar os usuários caso tentem fazer reservas fora desse intervalo.
+
+Regra de Negócio 2:
+Nome: Limite de Reservas por Usuário
+Módulo: Reservas
+Dependências: Usuários
+Descrição: Essa regra se aplica ao módulo de Reservas e depende do módulo de Usuários. Ela estabelece que cada usuário tem um limite máximo de reservas ativas em determinado período de tempo. O sistema deve acompanhar o número de reservas ativas de cada usuário e impedir que ele faça novas reservas se atingir o limite estabelecido.
+
+Regra de Negócio 3:
+Nome: Reservas Antecipadas
+Módulo: Reservas
+Dependências: N/A
+Descrição: Essa regra se aplica ao módulo de Reservas e estabelece que as reservas devem ser feitas com uma antecedência mínima, por exemplo, 24 horas antes do horário desejado. O sistema deve validar as solicitações de reserva e impedir reservas feitas com antecedência insuficiente.
+
+Regra de Negócio 4:
+Nome: Restrição de Duração
+Módulo: Reservas
+Dependências: N/A
+Descrição: Essa regra se aplica ao módulo de Reservas e estabelece que cada reserva tem uma duração máxima permitida, por exemplo, não mais do que 4 horas consecutivas. O sistema deve validar a duração da reserva solicitada e impedir reservas que excedam o limite estabelecido.
+
+Regra de Negócio 5:
+Nome: Prioridade de Reservas
+Módulo: Reservas
+Dependências: Cursos, Departamentos
+Descrição: Essa regra se aplica ao módulo de Reservas e depende dos módulos de Cursos e Departamentos. Ela estabelece que alguns laboratórios podem ter prioridade para determinados cursos ou departamentos, garantindo o acesso adequado para fins acadêmicos. O sistema deve considerar essa prioridade ao processar as reservas e permitir que os laboratórios sejam reservados de acordo com as restrições estabelecidas.
+
+Regra de Negócio 6:
+Nome: Reservas Recorrentes
+Módulo: Reservas
+Dependências: N/A
+Descrição: Essa regra se aplica ao módulo de Reservas e estabelece que é possível realizar reservas recorrentes para o mesmo laboratório, por exemplo, todas as segundas-feiras durante um semestre. O sistema deve permitir que os usuários agendem reservas recorrentes, especificando o padrão de recorrência (diário, semanal, mensal) e as datas de início e término.
+
+Regra de Negócio 7:
+Nome: Restrição de Alteração
+Módulo: Reservas
+Dependências: N/A
+Descrição: Essa regra se aplica ao módulo de Reservas e estabelece que uma reserva não pode ser alterada após determinado prazo, por exemplo, 1 hora antes do horário de início. O sistema deve permitir alterações nas reservas somente dentro do prazo estabelecido e notificar os usuários sobre essa restrição.
+
+Regra de Negócio 8:
+Nome: Penalidades por Não Comparecimento
+Módulo: Reservas
+Dependências: N/A
+Descrição: Essa regra se aplica ao módulo de Reservas e estabelece que usuários que não comparecerem a uma reserva sem cancelamento prévio podem receber penalidades, como suspensão temporária de novas reservas. O sistema deve acompanhar o comparecimento dos usuários às reservas e aplicar as penalidades necessárias, conforme definido pelas políticas da instituição.
+
+Regra de Negócio 9:
+Nome: Restrição de Laboratórios Ocupados
+Módulo: Reservas
+Dependências: N/A
+Descrição: Essa regra se aplica ao módulo de Reservas e estabelece que não é permitido reservar um laboratório que já esteja ocupado em determinado horário. O sistema deve verificar a disponibilidade dos laboratórios e impedir que sejam feitas reservas conflitantes.
+
+Regra de Negócio 10:
+Nome: Restrição de Usuários Bloqueados
+Módulo: Reservas
+Dependências: Usuários
+Descrição: Essa regra se aplica ao módulo de Reservas e depende do módulo de Usuários. Ela estabelece que usuários bloqueados por inadimplência ou violação das políticas da instituição não podem realizar reservas. O sistema deve verificar o status dos usuários e impedir que os usuários bloqueados façam novas reservas até que o problema seja resolvido.
+
+Regra de Negócio 11:
+Nome: Restrição de Reservas Conflitantes
+Módulo: Reservas
+Dependências: N/A
+Descrição: Essa regra se aplica ao módulo de Reservas e estabelece que não é permitido fazer uma reserva em um laboratório se o mesmo laboratório já estiver reservado por outro usuário no mesmo período. O sistema deve verificar a disponibilidade dos laboratórios e impedir que sejam feitas reservas que conflitem com reservas existentes.
+
+Regra de Negócio 12:
+Nome: Restrição de Reservas Canceladas
+Módulo: Reservas
+Dependências: N/A
+Descrição: Essa regra se aplica ao módulo de Reservas e estabelece que uma reserva cancelada não pode ser reativada ou recuperada após o prazo de cancelamento. O sistema deve registrar o status de uma reserva como cancelado e impedir que essa reserva seja utilizada ou restaurada posteriormente.
+
+Regra de Negócio 13:
+Nome: Restrição de Acesso às Chaves
+Módulo: Laboratórios
+Dependências: N/A
+Descrição: Essa regra se aplica ao módulo de Laboratórios e estabelece que somente o usuário autorizado pode retirar a chave do laboratório reservado, mediante apresentação de documento de identificação. O sistema deve registrar as informações de quem retirou a chave e garantir que apenas a pessoa autorizada tenha acesso a ela.
+
+Regra de Negócio 14:
+Nome: Notificação de Reservas
+Módulo: Reservas
+Dependências: N/A
+Descrição: Essa regra se aplica ao módulo de Reservas e estabelece que os usuários devem receber notificações por email ou mensagem sobre suas reservas confirmadas, alterações ou cancelamentos. O sistema deve enviar notificações automatizadas para os usuários envolvidos em uma reserva, mantendo-os informados sobre o status e quaisquer alterações relacionadas.
+
+Regra de Negócio 15:
+Nome: Histórico de Reservas
+Módulo: Reservas
+Dependências: N/A
+Descrição: Essa regra se aplica ao módulo de Reservas e estabelece que todas as reservas realizadas devem ser registradas e armazenadas no sistema, permitindo o acesso ao histórico de reservas dos usuários. O sistema deve manter um registro detalhado de todas as reservas feitas, incluindo informações como data, hora, laboratório, usuário responsável, status da reserva e quaisquer outras informações relevantes para fins de acompanhamento e relatórios.

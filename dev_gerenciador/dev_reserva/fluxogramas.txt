@@ -1,0 +1,50 @@
+Etapas do fluxograma do projeto de gerenciamento de reservas de laboratórios:
+
+1. Início: O fluxo de trabalho começa aqui.
+2. Autenticação: O usuário realiza a autenticação no sistema inserindo suas credenciais.
+3. Verificar Permissões: O sistema verifica as permissões do usuário para determinar quais ações ele pode realizar.
+4. Visualizar Agenda: O usuário seleciona a opção de visualizar a agenda das reservas.
+5. Filtrar por Período: O usuário escolhe filtrar a agenda por período de tempo (dia, semana, mês).
+6. Filtrar por Laboratório: O usuário opta por filtrar a agenda por laboratório específico.
+7. Visualizar Reservas: O sistema exibe as reservas conforme os filtros aplicados.
+8. Criar Reserva: O usuário seleciona a opção de criar uma nova reserva.
+9. Selecionar Laboratório: O usuário escolhe o laboratório desejado para a reserva.
+10. Escolher Data e Horário: O usuário define a data e o horário para a reserva.
+11. Verificar Disponibilidade: O sistema verifica se o laboratório está disponível na data e horário selecionados.
+12. Reservar Laboratório: Se o laboratório estiver disponível, o sistema registra a reserva.
+13. Estender Reserva: O usuário tem a opção de estender a duração de uma reserva existente.
+14. Cancelar Reserva: O usuário pode cancelar uma reserva existente.
+15. Registrar Empréstimo de Chave: O usuário registra quem pegou a chave do laboratório.
+16. Registrar Devolução de Chave: O usuário registra quem devolveu a chave do laboratório.
+17. Gerar Relatório: O usuário seleciona a opção de gerar um relatório personalizado.
+18. Escolher Critérios de Filtro: O usuário seleciona os critérios para filtrar o relatório (período, laboratório, usuário, etc.).
+19. Gerar Relatório: O sistema gera o relatório conforme os critérios selecionados.
+20. Fim: O fluxo de trabalho é concluído.
+
+Esses passos podem ser representados em um fluxograma usando símbolos adequados, como retângulos para representar ações, losangos para decisões, setas para indicar a sequência e terminadores para representar o início e o fim do fluxo de trabalho. Uma vez inseridos no fluxograma, esses passos podem ser transferidos para a ferramenta adequada, como um software de desenho vetorial ou uma ferramenta específica para fluxogramas, para criar uma representação visual clara e compreensível do processo.
+
+
+Aqui estão os símbolos mais adequados para cada um dos passos descritos anteriormente:
+
+1. Início: Símbolo de círculo ou elipse.
+2. Autenticação: Símbolo de retângulo com os cantos arredondados.
+3. Verificar Permissões: Símbolo de losango (decisão).
+4. Visualizar Agenda: Símbolo de retângulo com os cantos arredondados.
+5. Filtrar por Período: Símbolo de losango (decisão).
+6. Filtrar por Laboratório: Símbolo de losango (decisão).
+7. Visualizar Reservas: Símbolo de retângulo com os cantos arredondados.
+8. Criar Reserva: Símbolo de retângulo com os cantos arredondados.
+9. Selecionar Laboratório: Símbolo de retângulo com os cantos arredondados.
+10. Escolher Data e Horário: Símbolo de retângulo com os cantos arredondados.
+11. Verificar Disponibilidade: Símbolo de losango (decisão).
+12. Reservar Laboratório: Símbolo de retângulo com os cantos arredondados.
+13. Estender Reserva: Símbolo de retângulo com os cantos arredondados.
+14. Cancelar Reserva: Símbolo de retângulo com os cantos arredondados.
+15. Registrar Empréstimo de Chave: Símbolo de retângulo com os cantos arredondados.
+16. Registrar Devolução de Chave: Símbolo de retângulo com os cantos arredondados.
+17. Gerar Relatório: Símbolo de retângulo com os cantos arredondados.
+18. Escolher Critérios de Filtro: Símbolo de retângulo com os cantos arredondados.
+19. Gerar Relatório: Símbolo de retângulo com os cantos arredondados.
+20. Fim: Símbolo de círculo ou elipse.
+
+Lembre-se de que esses símbolos são apenas sugestões e podem variar dependendo das convenções e padrões adotados na representação de fluxogramas da sua organização ou projeto específico.

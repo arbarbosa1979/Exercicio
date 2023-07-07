@@ -1,0 +1,41 @@
+Aqui estão 12 passos para serem inseridos no diagrama de caso de uso do projeto do gerenciador de reservas:
+
+1. Realizar login: O usuário autentica-se no sistema informando suas credenciais.
+2. Criar reserva: O usuário cria uma nova reserva, selecionando o laboratório, dia e horário desejados.
+3. Estender reserva: O usuário estende a duração de uma reserva existente, caso o laboratório esteja disponível.
+4. Cancelar reserva: O usuário cancela uma reserva existente.
+5. Registrar empréstimo de chave: O usuário registra quem pegou a chave de um laboratório específico, indicando a matrícula funcional e horário.
+6. Registrar devolução de chave: O usuário registra quem devolveu a chave de um laboratório específico, indicando a matrícula funcional e horário.
+7. Visualizar agenda diária: O usuário visualiza as reservas agendadas para um dia específico.
+8. Visualizar agenda mensal: O usuário visualiza as reservas agendadas para um mês específico.
+9. Visualizar agenda semanal: O usuário visualiza as reservas agendadas para uma semana específica.
+10. Gerar relatório de reservas por período: O usuário gera um relatório contendo as reservas realizadas em um intervalo de tempo especificado.
+11. Gerar relatório de reservas por laboratório: O usuário gera um relatório contendo as reservas realizadas para um laboratório específico.
+12. Gerar relatório de frequência de reserva por usuário: O usuário gera um relatório contendo a frequência de reservas realizadas por um usuário específico.
+
+Esses passos representam as principais interações e funcionalidades do sistema de gerenciamento de reservas de laboratórios e podem ser representados como casos de uso em um diagrama de caso de uso.
+
+
+
+Aqui está uma divisão dos passos entre os dois atores principais, o Administrador do sistema e o Professor (usuário) que está reservando uma sala/laboratório:
+
+Para o Administrador do sistema:
+1. Realizar login
+2. Autorizar reserva
+3. Visualizar agenda diária
+4. Visualizar agenda mensal
+5. Visualizar agenda semanal
+6. Gerar relatório de reservas por período
+7. Gerar relatório de reservas por laboratório
+8. Gerar relatório de frequência de reserva por usuário
+
+Para o Professor (usuário) que está reservando uma sala/laboratório:
+1. Realizar login
+2. Consultar reserva
+3. Criar reserva
+5. Estender reserva
+6. Cancelar reserva
+7. Registrar empréstimo de chave
+8. Registrar devolução de chave
+
+Essa divisão reflete as diferentes funcionalidades disponíveis para cada ator. O Administrador do sistema tem acesso a recursos relacionados à visualização da agenda, geração de relatórios e gerenciamento geral do sistema. O Professor (usuário) pode criar, estender ou cancelar reservas, bem como registrar o empréstimo e a devolução das chaves dos laboratórios.

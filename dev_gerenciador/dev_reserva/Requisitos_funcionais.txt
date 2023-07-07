@@ -1,0 +1,123 @@
+Requisitos Funcionais:
+
+RF1:
+- Identificador: RF1
+- Categoria: Autenticação
+- Nome: Autenticação de Usuários
+- Data da criação: [data]
+- Autor: [autor]
+- Data da última alteração: [data]
+- Autor: [autor]
+- Versão: [versão]
+- Prioridade: [prioridade]
+- Descrição: O sistema deve permitir que os usuários se autentiquem, inserindo suas credenciais de login. Isso garantirá que apenas usuários autorizados tenham acesso ao sistema e possam realizar ações como criar, consultar e cancelar reservas.
+
+RF2:
+- Identificador: RF2
+- Categoria: Reservas
+- Nome: Criação de Reservas
+- Data da criação: [data]
+- Autor: [autor]
+- Data da última alteração: [data]
+- Autor: [autor]
+- Versão: [versão]
+- Prioridade: [prioridade]
+- Descrição: Os usuários devem ser capazes de criar novas reservas para os laboratórios disponíveis. Eles poderão selecionar o laboratório desejado, especificar a data e o horário da reserva, bem como outras informações relevantes. Após a criação, a reserva será registrada no sistema e ficará disponível para consulta e gerenciamento.
+
+RF3:
+- Identificador: RF3
+- Categoria: Reservas
+- Nome: Consulta de Reservas
+- Data da criação: [data]
+- Autor: [autor]
+- Data da última alteração: [data]
+- Autor: [autor]
+- Versão: [versão]
+- Prioridade: [prioridade]
+- Descrição: Os usuários devem poder visualizar suas reservas existentes e verificar os detalhes, como data, horário e laboratório. Isso permitirá que os usuários acompanhem suas reservas e verifiquem se há conflitos ou necessidade de alterações.
+
+RF4:
+- Identificador: RF4
+- Categoria: Reservas
+- Nome: Estender Reservas
+- Data da criação: [data]
+- Autor: [autor]
+- Data da última alteração: [data]
+- Autor: [autor]
+- Versão: [versão]
+- Prioridade: [prioridade]
+- Descrição: Os usuários devem ter a opção de estender o período de uma reserva existente, se houver disponibilidade. Isso permitirá que os usuários prolonguem o tempo de uso de um laboratório caso necessitem de mais tempo para concluir suas atividades.
+
+RF5:
+- Identificador: RF5
+- Categoria: Reservas
+- Nome: Cancelamento de Reservas
+- Data da criação: [data]
+- Autor: [autor]
+- Data da última alteração: [data]
+- Autor: [autor]
+- Versão: [versão]
+- Prioridade: [prioridade]
+- Descrição: Os usuários devem poder cancelar suas reservas caso não sejam mais necessárias. Isso permitirá que os usuários liberem o laboratório reservado para que outros usuários possam utilizá-lo. O cancelamento de uma reserva também deverá liberar a chave do laboratório, se aplicável.
+
+RF6:
+- Identificador: RF6
+- Categoria: Relatórios
+- Nome: Geração de Relatórios
+- Data da criação: [data]
+- Autor: [autor]
+- Data da última alteração: [data]
+- Autor: [autor]
+
+
+- Versão: [versão]
+- Prioridade: [prioridade]
+- Descrição: O sistema deve ser capaz de gerar relatórios com informações sobre as reservas realizadas. Os relatórios devem incluir detalhes como o laboratório reservado, horário da reserva e datas reservadas. Esses relatórios serão úteis para análises estatísticas, planejamento e tomada de decisões relacionadas ao uso dos laboratórios.
+
+RF7:
+- Identificador: RF7
+- Categoria: Laboratórios
+- Nome: Controle de Chaves
+- Data da criação: [data]
+- Autor: [autor]
+- Data da última alteração: [data]
+- Autor: [autor]
+- Versão: [versão]
+- Prioridade: [prioridade]
+- Descrição: O sistema deve permitir o registro do empréstimo e devolução das chaves dos laboratórios. Quando um usuário realizar a retirada da chave de um laboratório reservado, o sistema deverá registrar quem retirou a chave e manter um controle para garantir que apenas usuários autorizados tenham acesso às chaves.
+
+RF8:
+- Identificador: RF8
+- Categoria: Reservas
+- Nome: Validação de Disponibilidade
+- Data da criação: [data]
+- Autor: [autor]
+- Data da última alteração: [data]
+- Autor: [autor]
+- Versão: [versão]
+- Prioridade: [prioridade]
+- Descrição: O sistema deve verificar a disponibilidade de laboratórios em determinada data e horário antes de confirmar uma reserva. Isso garantirá que não ocorram reservas conflitantes, evitando que dois usuários reservem o mesmo laboratório no mesmo período. Caso o laboratório esteja indisponível, o sistema deverá informar ao usuário e sugerir outras opções disponíveis.
+
+RF9:
+- Identificador: RF9
+- Categoria: Reservas
+- Nome: Filtros de Consulta
+- Data da criação: [data]
+- Autor: [autor]
+- Data da última alteração: [data]
+- Autor: [autor]
+- Versão: [versão]
+- Prioridade: [prioridade]
+- Descrição: O sistema deve fornecer opções de filtragem para consultar as reservas. Os usuários poderão realizar consultas por período específico, laboratório ou usuário, facilitando a busca por informações específicas. Esses filtros ajudarão os usuários a localizar rapidamente as reservas desejadas.
+
+RF10:
+- Identificador: RF10
+- Categoria: Usuários
+- Nome: Gerenciamento de Usuários
+- Data da criação: [data]
+- Autor: [autor]
+- Data da última alteração: [data]
+- Autor: [autor]
+- Versão: [versão]
+- Prioridade: [prioridade]
+- Descrição: O sistema deve permitir o cadastro, consulta e edição dos dados dos usuários. Isso inclui informações como nome, matrícula, cargo, permissões de acesso, entre outros. O gerenciamento de usuários permitirá que o administrador do sistema controle as permissões e mantenha os dados atualizados para garantir a segurança e o correto uso do sistema.
