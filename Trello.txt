@@ -1,0 +1,69 @@
+No Trello, você pode criar títulos de cartões para cada item da seguinte forma:
+
+1. No FormCadastroUsuario implementar os códigos do buttonExcluir
+2. No FormCadastroUsuario implementar os códigos do buttonSalvar
+3. No FormCadastroGrupoUsuario implementar os códigos do buttonExcluir
+4. No FormCadastroGrupoUsuario implementar os códigos do buttonSalvar
+5. No FormCadastroAluno implementar os códigos do buttonExcluir
+6. No FormCadastroAluno implementar os códigos do buttonSalvar
+7. No FormCadastroDisciplina implementar os códigos do buttonExcluir
+8. No FormCadastroDisciplina implementar os códigos do buttonSalvar
+9. No FormCadastroCurso implementar os códigos do buttonExcluir
+10. No FormCadastroCurso implementar os códigos do buttonSalvar
+11. No FormCadastroPermissao implementar os códigos do buttonExcluir
+12. No FormCadastroPermissao implementar os códigos do buttonSalvar
+13. No FormCadastroPredio implementar os códigos do buttonExcluir
+14. No FormCadastroPredio implementar os códigos do buttonSalvar
+15. No FormCadastroReserva implementar os códigos do buttonExcluir
+16. No FormCadastroReserva implementar os códigos do buttonSalvar
+17. No FormCadastroSaidasAntecipadas implementar os códigos do buttonExcluir
+18. No FormCadastroSaidasAntecipadas implementar os códigos do buttonSalvar
+
+Esses títulos representam as tarefas a serem realizadas em cada um dos formulários de cadastro listados. Crie um cartão no Trello para cada um desses títulos, atribua-os às pessoas responsáveis e acompanhe o progresso do desenvolvimento para garantir que todas as funcionalidades sejam implementadas corretamente.
+
+
+
+No Trello, você pode criar títulos de cartões para cada item da seguinte forma:
+
+1. No FormBuscarUsuario implementar os códigos do buttonBuscar
+2. No FormBuscarUsuario implementar os códigos do buttonAlterar
+3. No FormBuscarUsuario implementar os códigos do buttonIncluir
+4. No FormBuscarUsuario implementar os códigos do buttonExcluir
+5. No FormBuscarGrupoUsuario implementar os códigos do buttonBuscar
+6. No FormBuscarGrupoUsuario implementar os códigos do buttonAlterar
+7. No FormBuscarGrupoUsuario implementar os códigos do buttonIncluir
+8. No FormBuscarGrupoUsuario implementar os códigos do buttonExcluir
+9. No FormBuscarAluno implementar os códigos do buttonBuscar
+10. No FormBuscarAluno implementar os códigos do buttonAlterar
+11. No FormBuscarAluno implementar os códigos do buttonIncluir
+12. No FormBuscarAluno implementar os códigos do buttonExcluir
+13. No FormBuscarDisciplina implementar os códigos do buttonBuscar
+14. No FormBuscarDisciplina implementar os códigos do buttonAlterar
+15. No FormBuscarDisciplina implementar os códigos do buttonIncluir
+16. No FormBuscarDisciplina implementar os códigos do buttonExcluir
+17. No FormBuscarCurso implementar os códigos do buttonBuscar
+18. No FormBuscarCurso implementar os códigos do buttonAlterar
+19. No FormBuscarCurso implementar os códigos do buttonIncluir
+20. No FormBuscarCurso implementar os códigos do buttonExcluir
+21. No FormBuscarPermissao implementar os códigos do buttonBuscar
+22. No FormBuscarPermissao implementar os códigos do buttonAlterar
+23. No FormBuscarPermissao implementar os códigos do buttonIncluir
+24. No FormBuscarPermissao implementar os códigos do buttonExcluir
+25. No FormBuscarPredio implementar os códigos do buttonBuscar
+26. No FormBuscarPredio implementar os códigos do buttonAlterar
+27. No FormBuscarPredio implementar os códigos do buttonIncluir
+28. No FormBuscarPredio implementar os códigos do buttonExcluir
+29. No FormBuscarReserva implementar os códigos do buttonBuscar
+30. No FormBuscarReserva implementar os códigos do buttonAlterar
+31. No FormBuscarReserva implementar os códigos do buttonIncluir
+32. No FormBuscarReserva implementar os códigos do buttonExcluir
+33. No FormBuscarSaidasAntecipadas implementar os códigos do buttonBuscar
+34. No FormBuscarSaidasAntecipadas implementar os códigos do buttonAlterar
+35. No FormBuscarSaidasAntecipadas implementar os códigos do buttonIncluir
+36. No FormBuscarSaidasAntecipadas implementar os códigos do buttonExcluir
+37. No FormBuscarSala implementar os códigos do buttonBuscar
+38. No FormBuscarSala implementar os códigos do buttonAlterar
+39. No FormBuscarSala implementar os códigos do buttonIncluir
+40. No FormBuscarSala implementar os códigos do buttonExcluir
+
+Esses títulos representam as tarefas a serem realizadas em cada um dos formulários de busca listados. Crie um cartão no Trello para cada um desses títulos, atribua-os às pessoas responsáveis e acompanhe o progresso do desenvolvimento para garantir que todas as funcionalidades de busca sejam implementadas corretamente.
