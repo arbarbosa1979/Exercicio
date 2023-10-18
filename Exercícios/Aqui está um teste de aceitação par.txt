@@ -1,0 +1,33 @@
+Aqui está um teste de aceitação para o módulo de Sala - Buscar uma Sala, seguindo o modelo fornecido:
+
+**Teste de Aceitação - Módulo de Sala - Buscar uma Sala**
+
+**Objetivo:** Verificar se o módulo de Sala permite que um usuário autenticado busque uma sala no sistema e se as restrições de acesso são aplicadas corretamente.
+
+**Pré-Condições:**
+- Usuário autenticado no Sistema de Gerenciamento de Reservas.
+- Existe pelo menos uma sala cadastrada no sistema.
+
+**Cenário 01: Busca de Sala com Sucesso (Usuário Autenticado)**
+
+**Passos:**
+1. O usuário autenticado acessa o módulo de "Salas" no sistema.
+2. O usuário inicia uma busca de informações sobre uma sala existente.
+3. O usuário fornece critérios de busca, como o número da sala ou localização.
+4. O sistema exibe uma lista de salas correspondentes à busca.
+5. O usuário seleciona uma sala para ver os detalhes.
+
+**Critérios de Sucesso:**
+- O sistema exibe uma lista de salas que correspondem aos critérios de busca.
+- O usuário consegue visualizar os detalhes da sala selecionada.
+
+**Cenário 02: Tentativa de Acesso sem Autenticação (Usuário Não Autenticado)**
+
+**Passos:**
+1. Um usuário não autenticado tenta acessar o módulo de "Salas" no sistema.
+2. O sistema redireciona o usuário para a página de login.
+
+**Critérios de Sucesso:**
+- O sistema impede o acesso não autorizado ao módulo de "Salas" e redireciona o usuário para a página de login.
+
+Este teste de aceitação valida a funcionalidade de busca de uma sala no módulo de Salas, garantindo que apenas usuários autenticados possam acessar o módulo. Certifique-se de personalizar os detalhes e critérios de busca de acordo com as necessidades específicas do sistema em teste.

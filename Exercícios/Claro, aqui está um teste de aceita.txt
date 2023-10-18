@@ -1,0 +1,49 @@
+Claro, aqui está um teste de aceitação para a funcionalidade "Buscar uma Sala" no módulo de Salas, seguindo o modelo fornecido:
+
+1º Aspecto: Acesso ao módulo de 
+
+Funcionalidade: Buscar uma Sala no Sistema
+
+História de Usuário:
+Um usuário do Sistema de Gerenciamento de Reservas deseja buscar uma sala no sistema para encontrar informações sobre a disponibilidade e detalhes da sala.
+
+Pré-Condições:
+- Usuário autenticado no Sistema de Gerenciamento de Reservas.
+- Existe pelo menos uma sala cadastrada no sistema.
+
+Cenário 01: Busca de Sala com Sucesso
+
+Passos:
+1. O usuário acessa o Sistema de Gerenciamento de Reservas.
+2. O usuário informa o login do usuário como "rafael.lima@123" e a senha como "123456".
+3. O sistema efetua o login com sucesso e redireciona o usuário para a página de consulta de dados da matrícula.
+4. O usuário seleciona a opção "Buscar Sala" no menu.
+
+Critérios de Sucesso:
+- O sistema exibe uma página de busca de salas.
+- O usuário pode inserir critérios de busca, como número da sala ou capacidade.
+- O sistema retorna uma lista de salas correspondentes à busca.
+
+Cenário 02: Busca de Sala sem Autenticação
+
+Passos:
+1. O usuário acessa o Sistema de Gerenciamento de Reservas.
+2. O usuário tenta acessar a funcionalidade "Buscar Sala" sem fazer o login.
+3. O sistema redireciona o usuário para a página de login.
+
+Critérios de Sucesso:
+- O sistema exige que o usuário faça o login antes de acessar a funcionalidade "Buscar Sala".
+
+Cenário 03: Busca de Sala sem Salas Cadastradas
+
+Pré-Condições:
+- O usuário já está autenticado no sistema.
+
+Passos:
+1. O usuário seleciona a opção "Buscar Sala" no menu.
+2. O sistema exibe a página de busca de salas, mas não existem salas cadastradas no sistema.
+
+Critérios de Sucesso:
+- O sistema informa que não existem salas cadastradas e fornece a opção de adicionar uma nova sala.
+
+Este teste de aceitação verifica se a funcionalidade de busca de salas no módulo de Salas funciona corretamente, garantindo que o usuário tenha acesso após o login e que a busca retorne resultados apropriados. Além disso, ele aborda cenários de usuários não autenticados e a ausência de salas cadastradas no sistema.

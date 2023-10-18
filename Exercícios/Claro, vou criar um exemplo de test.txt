@@ -1,0 +1,47 @@
+Claro, vou criar um exemplo de teste de aceitação com base no modelo para um usuário que deseja fazer uma reserva, buscar uma reserva existente, alterar uma reserva e excluir uma reserva no sistema de gerenciamento de reservas:
+
+---
+
+**Teste de Aceitação: Reserva de Sala no Sistema de Gerenciamento de Reservas**
+
+**História de Usuário:**
+Eu, como usuário do Sistema de Gerenciamento de Reservas, desejo fazer uma reserva de sala para um evento, buscar a reserva para verificar os detalhes, alterar os horários da reserva e, se necessário, excluí-la.
+
+**Pré-Condições:**
+- O sistema de gerenciamento de reservas está funcionando corretamente.
+
+**Cenário 01: Reserva de Sala Realizada com Sucesso**
+- **Dado que** o usuário está logado no sistema.
+- **Quando** o usuário acessa o módulo de "Reservas" e inicia o processo de criação de uma nova reserva.
+- **E** o usuário preenche os campos obrigatórios, como nome do evento, data, horário de início e fim.
+- **E** o usuário confirma a reserva.
+- **Então** o sistema cria a reserva com sucesso.
+- **E** o sistema exibe uma confirmação da reserva.
+
+**Cenário 02: Busca de Reserva Existente**
+- **Dado que** o usuário está logado no sistema.
+- **Quando** o usuário acessa o módulo de "Reservas" e inicia uma busca por uma reserva existente.
+- **E** o usuário fornece critérios de busca, como nome do evento ou data.
+- **Então** o sistema exibe uma lista de reservas correspondentes à busca.
+- **E** o usuário clica em uma reserva para ver os detalhes.
+
+**Cenário 03: Alteração de Reserva de Sala**
+- **Dado que** o usuário está logado no sistema.
+- **Quando** o usuário acessa o módulo de "Reservas" e inicia a modificação de uma reserva existente.
+- **E** o usuário seleciona a reserva que deseja alterar.
+- **E** o usuário faz as alterações desejadas nos campos, como a data e horário.
+- **E** o usuário confirma as alterações.
+- **Então** o sistema atualiza a reserva com sucesso.
+- **E** o sistema exibe uma confirmação das alterações.
+
+**Cenário 04: Exclusão de Reserva de Sala**
+- **Dado que** o usuário está logado no sistema.
+- **Quando** o usuário acessa o módulo de "Reservas" e inicia a exclusão de uma reserva existente.
+- **E** o usuário seleciona a reserva que deseja excluir.
+- **E** o usuário confirma a exclusão.
+- **Então** o sistema remove a reserva com sucesso.
+- **E** o sistema exibe uma confirmação da exclusão.
+
+---
+
+Este teste de aceitação abrange os principais cenários de uso relacionados à reserva de salas no sistema de gerenciamento. Ele inclui a criação de uma reserva, busca por uma reserva existente, alteração dos detalhes de uma reserva e exclusão de uma reserva, garantindo que o sistema funcione conforme as expectativas do usuário.
