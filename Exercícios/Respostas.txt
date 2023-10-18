@@ -1,0 +1,98 @@
+Aqui está um exemplo de um conjunto de casos de teste completo para um sistema de gerenciamento de reservas de laboratórios com as funções especificadas. Este conjunto de casos de teste abrange as diversas funcionalidades do sistema:
+
+*Teste de Aceitação - Sistema de Gerenciamento de Reservas de Laboratórios*
+
+*1. Cadastro de Usuário:*
+
+- *Caso de Teste 1:* Cadastro de usuário com sucesso
+  - Passos:
+    1. Acesse o sistema.
+    2. Vá para a seção de cadastro de usuários.
+    3. Insira informações válidas para criar um novo usuário.
+    4. Clique em "Cadastrar".
+  - Critério de Aceitação: O usuário deve ser cadastrado com sucesso no sistema.
+
+- *Caso de Teste 2:* Cadastro de usuário com informações inválidas
+  - Passos:
+    1. Acesse o sistema.
+    2. Vá para a seção de cadastro de usuários.
+    3. Insira informações inválidas para criar um novo usuário.
+    4. Clique em "Cadastrar".
+  - Critério de Aceitação: O sistema deve exibir uma mensagem de erro apropriada.
+
+*2. Cadastro de Permissões:*
+
+- *Caso de Teste 3:* Atribuição de permissões a um usuário
+  - Passos:
+    1. Acesse o sistema como um administrador.
+    2. Abra a página de gerenciamento de permissões.
+    3. Atribua permissões a um usuário específico.
+  - Critério de Aceitação: O usuário deve receber as permissões atribuídas com sucesso.
+
+*3. Cadastro de Grupo de Usuário:*
+
+- *Caso de Teste 4:* Criação de um grupo de usuário
+  - Passos:
+    1. Acesse o sistema como um administrador.
+    2. Vá para a seção de grupos de usuários.
+    3. Crie um novo grupo de usuário.
+  - Critério de Aceitação: O grupo de usuário deve ser criado e disponível para atribuição.
+
+*4. Cadastro de Prédio e Sala:*
+
+- *Caso de Teste 5:* Cadastro de prédio
+  - Passos:
+    1. Acesse o sistema.
+    2. Vá para a seção de cadastro de prédios.
+    3. Insira informações para criar um novo prédio.
+  - Critério de Aceitação: O prédio deve ser cadastrado com sucesso no sistema.
+
+- *Caso de Teste 6:* Cadastro de sala
+  - Passos:
+    1. Acesse o sistema.
+    2. Vá para a seção de cadastro de salas.
+    3. Insira informações para criar uma nova sala em um prédio existente.
+  - Critério de Aceitação: A sala deve ser cadastrada e associada ao prédio corretamente.
+
+*5. Cadastro de Curso e Disciplina:*
+
+- *Caso de Teste 7:* Cadastro de curso
+  - Passos:
+    1. Acesse o sistema.
+    2. Vá para a seção de cadastro de cursos.
+    3. Insira informações para criar um novo curso.
+  - Critério de Aceitação: O curso deve ser cadastrado com sucesso no sistema.
+
+- *Caso de Teste 8:* Cadastro de disciplina
+  - Passos:
+    1. Acesse o sistema.
+    2. Vá para a seção de cadastro de disciplinas.
+    3. Insira informações para criar uma nova disciplina em um curso existente.
+  - Critério de Aceitação: A disciplina deve ser cadastrada e associada ao curso corretamente.
+
+*6. Cadastro de Reservas:*
+
+- *Caso de Teste 9:* Agendamento de uma reserva
+  - Passos:
+    1. Acesse o sistema.
+    2. Vá para a seção de agendamento de reservas.
+    3. Selecione um laboratório disponível, escolha a data e hora, e confirme a reserva.
+  - Critério de Aceitação: A reserva deve ser agendada com sucesso sem conflitos.
+
+*7. Cadastro de Alunos:*
+
+- *Caso de Teste 10:* Cadastro de aluno
+  - Passos:
+    1. Acesse o sistema.
+    2. Vá para a seção de cadastro de alunos.
+    3. Insira informações para criar um novo aluno.
+  - Critério de Aceitação: O aluno deve ser cadastrado com sucesso no sistema.
+
+*8. Saídas Antecipadas:*
+
+- *Caso de Teste 11:* Registro de saída antecipada de um aluno
+  - Passos:
+    1. Acesse o sistema.
+    2. Vá para a seção de saídas antecipadas.
+    3. Selecione o aluno que está saindo antecipadamente e registre a saída.
+  - Critério de Aceitação: A saída antecipada deve ser registrada adequadamente no sistema.
