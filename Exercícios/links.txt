@@ -1,0 +1,33 @@
+https://bard.google.com/chat?hl=pt-BR | Bard
+https://app.writesonic.com/pt-pt/template/295975aa-a274-4fba-b7cf-dbeda0b483d7/chatsonic/61a42804-5e45-4003-86e0-3a5e35827047 | Chatsonic | Writesonic
+https://chat.openai.com/auth/login | ChatGPT
+https://github.com/implementacaoteste/TEC.2022.1.108.Gestao-de-hoteis/blob/main/WindowsFormsPrincipal/WindowsFormsAppGestaoHotel/FormBuscarCliente.cs | TEC.2022.1.108.Gestao-de-hoteis/WindowsFormsPrincipal/WindowsFormsAppGestaoHotel/FormBuscarCliente.cs at main · implementacaoteste/TEC.2022.1.108.Gestao-de-hoteis
+https://github.com/implementacaoteste | implementacaoteste
+https://docs.google.com/spreadsheets/d/15U8OC8c7hoQ1Kogrm2y3jKKKc0yZH46onOAOWHUmFUQ/edit?pli=1#gid=0 | TEC.2022.1.105 Gerenciador de reservas de laboratório - Requisitos funcionais e nao funcionais - Planilhas Google
+https://docs.google.com/spreadsheets/d/1xM1WxOaPZk1kcHyXpc3_4C066j8-xH8INLFaSV4fDOw/edit?pli=1#gid=0 | TEC.2022.1.105 Gerenciador de reservas de laboratório - Regras de Negócios - Planilhas Google
+https://docs.google.com/document/u/0/d/1D5myBNxXYMMQKTLx6gUioJbGwiGYJPUhVjHcU9EZhAc/edit?pli=1#heading=h.v7228gozrukx | Acesso negado
+https://pixabay.com/pt/images/search/?order=ec | Descubra e baixe imagens gratuitas - Pixabay
+https://www.unipacto.com.br/storage/gallery/files/nice/TUTORIAL%20DE%20RESERVA%20E%20SOLICITA%C3%87%C3%83O%20DE%20INSTALA%C3%87%C3%95ES%20E%20RECURSOS.pdf | TUTORIAL DE RESERVA E SOLICITAÇÃO DE INSTALAÇÕES E RECURSOS.pdf
+https://www.google.com/search?rlz=1C1GCEU_pt-BRBR1042BR1042&hl=pt-BR&q=agendamento+de+reservas+laboratorio&tbm=isch&sa=X&ved=2ahUKEwjz8eHc-9L_AhWKILkGHRdMDroQ0pQJegQICBAB&biw=1536&bih=680&dpr=1.25#imgrc=XunJ8me3W7eqGM | agendamento de reservas laboratorio - Pesquisa Google
+file:///C:/Users/nsistema/Downloads/SISTEMA%20WEB%20PARA%20RESERVA%20DOS%20LABORAT%C3%93RIOS%20DE%20INFORM%C3%81TICA%20DO%20UNASP.pdf | SISTEMA WEB PARA RESERVA DOS LABORATÓRIOS DE INFORMÁTICA DO UNASP.pdf
+https://www.ufpb.br/ccae/contents/noticias/gerencia-de-tecnologia-da-informacao-e-comunicacao-gtic-implanta-novo-sistema-de-agendamento-de-laboratorios-de-informatica | Gerência de Tecnologia da Informação e Comunicação (GTIC) implanta novo sistema de agendamento de laboratórios de informática. — UNIVERSIDADE FEDERAL DA PARAÍBA - UFPB CCAE - CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO
+https://rjcodeadvance.com/category/punto-net/c-sharp/ | C# – RJ Code Advance
+https://www.educba.com/convert-int-to-string-c-sharp/ | Convert int to String C# | How to Convert int to String with Sample Code
+https://fonts.google.com/specimen/Montserrat | Montserrat - Google Fonts
+https://trello.com/b/TZxgptj8/tec20221105locacao-de-laboratorios | TEC.2022.1.105.Locacao-de-Laboratorios | Trello
+https://www.notion.so/Import-Windows-Forms-Calendar-4d9141828ab44316ba7d39deeb2ba6ab?showMoveTo=true | Import Windows.Forms.Calendar
+https://rjcodeadvance.com/cuadro-de-mensaje-personalizado-c-winforms/ | Cuadro de Mensaje Personalizado – C#, VB (Visual Basic) & WinForms – RJ Code Advance
+https://github.com/RJCodeAdvance/RJControls | RJCodeAdvance/RJControls: Modern, flat, and elegant Custom Controls for Windows Forms, C#, or Visual Basic.NET. This Custon Controls library was created for training purposes through tutorial videos. You can download the source code from the repository and modify it in your own way.
+https://www.youtube.com/watch?v=IsFjvwLVpxQ | C# winform Save and Load DataGridView Layout Settings - YouTube
+https://www.c-sharpcorner.com/UploadFile/52c7f5/saving-the-user-grid-changes-and-restore-the-user-setting-by/ | Saving DataGridView setting in xml and restore it!
+https://repositorio.ufrn.br/bitstream/123456789/18051/1/CarlosBPS_DISSERT.pdf | Dissertação
+https://gist.github.com/igorlima/8024944 | Exemplo de como escrever história de usuário e teste de aceitação com JavaScript
+https://medium.com/bionexo/teste-de-aceita%C3%A7%C3%A3o-uma-documenta%C3%A7%C3%A3o-objetiva-%C3%BAtil-e-execut%C3%A1vel-67675bafe96a | Teste de Aceitação: uma documentação objetiva, útil e executável | by Livyson | bionexo | Medium
+https://identidade.senai.br/authenticationendpoint/samlsso_logout.do?status=urn%3Aoasis%3Anames%3Atc%3ASAML%3A2.0%3Astatus%3ARequester&statusMsg=Invalid+Logout+Request&logoutResponse=fZFBb8IwDIX%2FSpR7S5uu64ho0bQJqRJcBuOwy2QaF0Vqky5O0fbvVxgM1AM3%2B%2Bk9%2B5M9m3%2B3DTugI21NzuMw4gxNZZU2%2B5y%2FbxbBE58XM4K2EZ18Q%2BqsIWRDyJD8U3PeOyMtkCZpoEWSvpLr59VSijCSnbPeVrbhrHzN%2BWeKO7FLQEzrus6qafpQ1SlkCWaPqkrSaTzYiHosDXkwPuciEkkQR0EsNlEso0TGSSiy7IOz7YV52MLPhPIUdrd49%2BmACJ0fxnC2sK4Ff99%2BVLQK6pNVovHa%2F%2FBCq2OlQGFIaECHOzeb3PL832%2Ftwfc0al%2BsQraFpsf7y%2BnkHn7w1SN5dHwyGrRCIthjUZoDNFqxpd3b3rNz4Iw0No%2Fka3%2F5dfEL&ACSUrl=https%3A%2F%2Fmeusenai.senai.br%2Fsaml%2Facs&sp=meusenai.senai.br&crId=https%3A%2F%2Fmeusenai.senai.br%2Fsaml%2Flogout | Servidor de Identidade
+https://pt.slideshare.net/LeandroRodrigues221/exemplo-de-plano-de-testes | Exemplo de Plano de testes | PDF
+https://www.codeproject.com/Articles/38699/A-Professional-Calendar-Agenda-View-That-You-Will | A Professional Calendar/Agenda View That You Will Use - CodeProject
+https://www.codeproject.com/Articles/378900/Calendar-NET | Calendar.NET - CodeProject
+https://github.com/derekantrican/Winforms-Calendar | derekantrican/Winforms-Calendar: A fork of https://www.codeproject.com/KB/docview/WinFormsCalendarView.aspx
+https://github.com/DetroSt/WindowsFormsCalendar | DetroSt/WindowsFormsCalendar: Window calendar scheduler control
+https://meusenai.senai.br/ | MeuSENAI | Página Inicial
+https://classroom.google.com/u/1/c/NjI5Njg0NzUyMDY4/a/NjMwMzk5MjU5OTU4/details | Testes de Funcionalidade - Abordagem
