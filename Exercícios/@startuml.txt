@@ -1,0 +1,25 @@
+@startuml
+actor Professor as "Professor"
+left to right direction
+rectangle "Sistema" {
+  Professor --> (Logar no Sistema)
+  (Logar no Sistema) ..> (Verificar Email/Senha): <<include>>
+  (Logar no Sistema) ..> (Exibir Erro de Login): <<extend>>
+
+  Professor --> (Cadastro de Turma)
+  Professor --> (Excluir Turma)
+  (Excluir Turma) --> (Verificar se Turma Contém Atividade): <<include>>
+
+
+note right of (Verificar se Turma Contém Atividade)
+caso a turma tenha atividade cadastrada para ela, essa turma não
+poderá ser excluída do banco de dados e a mensagem "Você não
+pode excluir uma turma com atividades cadastradas" deverá ser exibida.
+end note
+
+Professor --> (Visualizar Turma)
+Professor --> (Cadastrar Atividade)
+}
+
+
+@enduml
